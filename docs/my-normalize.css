@@ -1,0 +1,27 @@
+*{transition: all .3s ease-in;}
+
+
+html, 
+body, 
+ul, 
+li {margin: 0;	}
+
+
+
+
+
+
+
+.perfect{
+	width: 800px;
+	height: 600px;
+
+	background-image: url("images/dark.jpg");
+	position: absolute;
+
+	opacity: 0.5;
+	z-index: 1;
+}
+
+a{
+	max-width: 1366px;	}
